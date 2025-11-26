@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This project is an ******End-to-End Agentic AI Trip Planner built using LangChain, Streamlit, and Python 3.12.*** It leverages the power of Large Language Models (LLMs) and a suite of external tools (APIs) to act as an intelligent travel agent.
+This project is an ***End-to-End Agentic AI Trip Planner built using LangChain, Streamlit, and Python 3.12.*** It leverages the power of Large Language Models (LLMs) and a suite of external tools (APIs) to act as an intelligent travel agent.
 
 Unlike simple chatbots, this system utilizes an Agentic Workflow. The AI autonomously decides which tools to use (Weather, Currency, Search, etc.) to generate a comprehensive travel plan. It follows MLOps best practices with modular coding, custom logging, and exception handling.
 
